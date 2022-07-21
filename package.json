@@ -1,5 +1,5 @@
 {
-  "name": "weather-cli",
+  "name": "weather-cli-tinatinart",
   "version": "1.0.0",
   "description": "CLI for getting weather",
   "main": "weather.js",
@@ -8,7 +8,8 @@
   },
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node weather.js"
   },
   "keywords": [
     "cli",
@@ -16,13 +17,11 @@
   ],
   "author": "Omurova Tinatin",
   "license": "ISC",
-  "homepage": "https://purpleschool.ru",
   "repository": {
     "type": "git",
-    "url": "https://purpleschool.ru"
+    "url": "https://github.com/Tinatin-art/Weather-CLI.git"
   },
   "bugs": {
-    "url": "https://purpleschool.ru",
     "email": "omurovatinatin@gmail.com"
   },
   "dependencies": {
